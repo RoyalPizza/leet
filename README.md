@@ -1,0 +1,2 @@
+# leet
+trying out leetcode
